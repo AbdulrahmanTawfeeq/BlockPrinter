@@ -4,8 +4,9 @@ BlockPrinter is a simple project designed for beginners to help them understand 
 
 ## Features
 
-- Applies Single Responsibility Principle (SRP) of SOLID principles.
+- Applies the Single Responsibility Principle (SRP) of SOLID principles.
 - Uses Object-Oriented Programming (OOP) principles.
 - Follows the Model-View-Controller (MVC) design pattern.
+- Applying the Observer Design Pattern.
 
 ![Example Image](https://raw.githubusercontent.com/AbdulrahmanTawfeeq/BlockPrinter/master/classDiagram.png)
