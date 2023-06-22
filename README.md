@@ -8,4 +8,4 @@ BlockPrinter is a simple project designed for beginners to help them understand 
 - Uses Object-Oriented Programming (OOP) principles.
 - Follows the Model-View-Controller (MVC) design pattern.
 
-![Example Image]([https://example.com/image.png](https://raw.githubusercontent.com/AbdulrahmanTawfeeq/BlockPrinter/master/classDiagram.png))
+![Example Image](https://raw.githubusercontent.com/AbdulrahmanTawfeeq/BlockPrinter/master/classDiagram.png)
