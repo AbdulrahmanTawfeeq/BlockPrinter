@@ -10,3 +10,4 @@ BlockPrinter is a simple project designed for beginners to help them understand 
 - Applying the Observer Design Pattern.
 
 ![Example Image](https://raw.githubusercontent.com/AbdulrahmanTawfeeq/BlockPrinter/master/classDiagram.png)
+![Example Image](https://raw.githubusercontent.com/AbdulrahmanTawfeeq/BlockPrinter/master/guiImage.PNG)
